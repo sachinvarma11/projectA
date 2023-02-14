@@ -1,0 +1,13 @@
+Step 2: Use Personal Access Token for Authentication
+For Windows
+Open your computer's Control Panel
+Then click on User Account
+Next, go on Credential Manager
+Then go to Windows Credentials and find git:https://github.com
+Finally, click on Edit then On Password and then, update the password with your Github Personal Access Token
+For MAC OS
+Click the Spotlight icon on the right side of the navigation bar (magnifying glass).
+Type Keychain access then launch the app
+In Keychain Access, search for github.com
+Find the internet password entry for github.com and update it with your Github Personal Access Token.
+For Linux based OS
